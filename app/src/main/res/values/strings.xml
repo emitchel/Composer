@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Composer</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="songs">Songs</string>
+    <string name="playlists">Playlists</string>
+    <string name="add_song">Add Song</string>
+    <string name="add_playlist">Add Playlist</string>
 </resources>
