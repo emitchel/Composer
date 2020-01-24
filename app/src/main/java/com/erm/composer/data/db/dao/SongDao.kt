@@ -7,7 +7,6 @@ import com.erm.composer.data.model.entity.Song
 
 @Dao
 abstract class SongDao : BaseDao<Song>() {
-
     @Query("select * from song")
     abstract fun getSongs(): List<Song>
 }
